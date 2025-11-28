@@ -1,3 +1,3 @@
-module example.com/hello
+module github.com/VictorDMoura/learn-go-with-test
 
 go 1.25.4
